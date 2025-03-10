@@ -1,3 +1,7 @@
 # mosulos_daw_adrianteran
  
-holaaa
+programacion
+entornos de desarrollo 
+bases de datos
+sistemas informaticos
+fol
